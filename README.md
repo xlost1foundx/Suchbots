@@ -1,4 +1,4 @@
-# Suchbots
+# Suchbots 
 /project-folder
 │
 ├── /client (Next.js frontend)
